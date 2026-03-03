@@ -6,8 +6,8 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {
- "test": "npx mocha test/test.js"
+"scripts": {
+  "test": "mocha"
 },
   "repository": {
     "type": "git",
